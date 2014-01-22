@@ -1,5 +1,1 @@
-{
-  "title": "{{item.title | xml_escape}}",
-  "description": "{{item.content | markdownify | xml_escape}}",
-  "pubDate": "{{item.date | date_to_xmlschema}}"
-}
+{{item | jsonify}}
