@@ -1,8 +1,8 @@
 {
-  "id": "{{item.id | jsonify}}",
-  "title": "{{item.title | jsonify}}",
-  "date": "{{item.date | date_to_xmlschema}}",
-  "tags": "{{item.tags | jsonify}}",
-  "excerpt": "{{item.excerpt | jsonify}}",
-  "content": "{{item.content | jsonify}}"
+  "id": {{item.id | jsonify}},
+  "title": {{item.title | jsonify}},
+  "date": {{item.date | date_to_xmlschema}},
+  "tags": {{item.tags | jsonify}},
+  "excerpt": {{item.excerpt | jsonify}},
+  "content": {{item.content | jsonify}}
 }
