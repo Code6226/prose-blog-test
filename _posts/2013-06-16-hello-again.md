@@ -3,12 +3,12 @@ layout: blog
 category: blog
 published: true
 splash: "http://placehold.it/1600x500"
-title: "Now with Title!"
+title: "Now with a \"Title\"!"
 ---
 
 ## I am saying [hello](http://google.com "This is link")! Woo
 
-And then another ... _edit_. **With Bold!!**
+And then another ... "edit". **With Bold!!**
 
 
 
