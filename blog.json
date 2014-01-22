@@ -1,0 +1,13 @@
+---
+origin: /
+title: Blog
+description: This is blog
+---
+
+{
+    posts: [
+    {% for item in site.categories.blog limit:40 %}
+        {% include json-item.json %}
+    {% endfor %}
+    ]
+}
