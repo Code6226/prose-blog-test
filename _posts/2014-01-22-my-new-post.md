@@ -2,12 +2,12 @@
 layout: blog
 category: blog
 published: true
-title: My New Post - Now with 10% more post
+title: "My New Post - Now with 10% more post"
 ---
 
-## A New Post
+An exciting new blog post for the new year.
 
-1. _Hello
+1. _Hello_
 2. Two
 3. Three
 
