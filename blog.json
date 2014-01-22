@@ -7,7 +7,7 @@ description: This is blog
 {
     posts: [
     {% for item in site.categories.blog limit:40 %}
-        {% include json-item.json %}
+        {% include json-item.json %}{% unless forloop.last %},{% endunless%}
     {% endfor %}
     ]
 }
