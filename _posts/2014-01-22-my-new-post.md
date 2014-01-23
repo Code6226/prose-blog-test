@@ -5,7 +5,7 @@ published: true
 title: "My New Post: Now with 10% more post"
 ---
 
-An exciting new blog post for the new year.
+An exciting new blog post _for_ **the** "new year"!
 
 1. _Hello_
 2. Two
