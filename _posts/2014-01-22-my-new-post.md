@@ -2,7 +2,7 @@
 layout: blog
 category: blog
 published: true
-title: "My New Post - Now with 10% more post"
+title: "My New Post: Now with 10% more post"
 ---
 
 An exciting new blog post for the new year.
